@@ -12,3 +12,6 @@ console.log("Stephen" + "Axtell");
 let userName = "Stephen";
 console.log(userName.length);
 console.log(userName.toLowerCase());
+
+const books = ["Hobbit", "War and Peace", "Lolita"];
+console.log(books.length);
